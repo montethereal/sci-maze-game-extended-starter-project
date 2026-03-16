@@ -1,0 +1,36 @@
+{
+    "name": "SCI MAZE GAME-EXTENDED STARTER PROJECT",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "animation": "*",
+        "Inventory": "github:unsignedarduino/inventory#v1.1.1",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.2.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v2.0.63",
+        "tag": "v2.0.63",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/5f6dbe1863a184bb2cde85fd93133e94e9719e03",
+        "target": "4.0.12",
+        "pxt": "11.3.68",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}

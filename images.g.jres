@@ -1,0 +1,27 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACLCAAAAAAAgIiLCAAAAACDCIMIAAAAAICIiwgAAAAAAIiIMAAAAAAAgwgAAAAAAACDCAAAAAAAAIMIAAAAAAAAgIsIAAAAAACDMDAAAAAAAICLCAAAAAAAgIsIAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Red Key"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIj4AAAAAACAiIj4AAAAAID4gPgAAAAAgIiI+AAAAAAAiIgPAAAAAACA+AAAAAAAAID4AAAAAAAAgPgAAAAAAACAiPgAAAAAAID/DwAAAAAAgIj4AAAAAACAiPgAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Blue Key"
+    },
+    "}Njq": {
+        "data": "hwQQABAAAACwuwu7u7u7C+vuu8zM6867S+S7zMzr7rtLRLvMzOvuC0tEu8zM6+4LS0S7zMzr7gtLRLubmevuC0tEzZyb6+4LS0TNnJnr7gtLRLvLzOvuC0tEu8zM6+4LS0S7zMzr7gtLRLvMzOvuC0vku8zM6+67S+67zMzrzruwuwu7u7u7Cw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "OXYGEN"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
